@@ -1,10 +1,11 @@
 ## Make Change Project
 
-### First week homework for Skill Distillery
+### First Week Homework for Skill Distillery
 
 ### Overview
 
-### How to run
+This program simulates a cash transaction interface.
+### How to Run
 
 ### Technologies/Topics Used
 
