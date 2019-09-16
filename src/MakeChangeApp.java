@@ -22,9 +22,9 @@ public class MakeChangeApp {
 			if (pennies >= 2000) { // if there are over 2000 pennies, we owe them a twenty
 				twentyBills = pennies / 2000; // give them the appropriate number of twenties
 				if (twentyBills > 1) {
-					System.out.print(twentyBills + "twenties. ");
+					System.out.print(twentyBills + " twenties. "); //chooses singular or plural bills/coins
 				} else if (twentyBills == 1) {
-					System.out.print(twentyBills + "twenty. ");
+					System.out.print(twentyBills + " twenty. ");
 				}
 				pennies = pennies % 2000; // the amount of remaining pennies after taking out the twenties
 			}
